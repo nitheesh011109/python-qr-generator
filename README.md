@@ -20,10 +20,10 @@ Pillow (PIL)
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/nitheesh011109/python-qr-generator.git
 
 Move into the project folder:
-cd qr-code-generator
+cd python-qr-generator
 
 Install required libraries:
 pip install qrcode[pil] pillow

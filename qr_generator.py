@@ -1,3 +1,4 @@
+#Importing  qrcode
 import qrcode
 from qrcode.constants import ERROR_CORRECT_H
 from PIL import Image

@@ -1,4 +1,8 @@
+<div align="center">
+  
 # QR Code Generator 📱
+
+</div>
 
 An advanced QR Code Generator built with Python using the `qrcode` and `Pillow` libraries.
 
